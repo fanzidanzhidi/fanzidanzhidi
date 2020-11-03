@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <strong>🔭 Currently focusing on...</strong>
 
-<a href="https://github.com/fanzidanzhidi/fanzidanzhidi.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanzidanzhidi&repo=fanzidanzhidi.github.io" > </a> <a href="https://github.com/hedythedev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanzidanzhidi&repo=First-try" > </a>
+<a href="https://github.com/fanzidanzhidi/fanzidanzhidi.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanzidanzhidi&repo=fanzidanzhidi.github.io" height="250"> </a> <a href="https://github.com/hedythedev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanzidanzhidi&repo=First-try" height="250"> </a>
 
 <strong>📫 How to reach me </strong>
    
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 <!-- My GitHub stats with buefy theme ❤️ -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=fanzidanzhidi&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanzidanzhidi&layout=compact&theme=buefy" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=fanzidanzhidi&show_icons=true&theme=buefy" alt="my github stats" width="400" height="165"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanzidanzhidi&layout=compact&theme=buefy" alt="languages" width="400" height="165">
 </p>
 
