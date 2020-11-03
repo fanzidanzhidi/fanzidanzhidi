@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <strong>⚡ Fun facts</strong>
    
    - I speak fluent Chinese :100: Shanghai hua :zero:
-   - I love LOL and RunningMan :father:
-   - Favorite emoji: :dog: (the *dog*)
+   - I love LOL and RunningMan 
+   - Favorite emoji: :dog: (the *dog* 手动狗头)
    
 <hr>
 
