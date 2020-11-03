@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <strong>🔭 Currently focusing on...</strong>
 
-<a href="https://github.com/fanzidanzhidi/fanzidanzhidi.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanzidanzhidi&repo=fanzidanzhidi.github.io" height="250"> </a> <a href="https://github.com/hedythedev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanzidanzhidi&repo=First-try" height="250"> </a>
+<a href="https://github.com/fanzidanzhidi/fanzidanzhidi.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanzidanzhidi&repo=fanzidanzhidi.github.io" width="400" height="165"> </a> <a href="https://github.com/hedythedev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanzidanzhidi&repo=First-try" width="400" height="165"> </a>
 
 <strong>📫 How to reach me </strong>
    
