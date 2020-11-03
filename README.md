@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <strong>🔭 Currently focusing on...</strong>
 
-<a href="https://github.com/fanzidanzhidi/fanzidanzhidi.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanzidanzhidi&repo=fanzidanzhidi.github.io" width=400> </a> <a href="https://github.com/hedythedev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanzidanzhidi&repo=First-try" width=400> </a>
+<a href="https://github.com/fanzidanzhidi/fanzidanzhidi.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanzidanzhidi&repo=fanzidanzhidi.github.io" > </a> <a href="https://github.com/hedythedev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanzidanzhidi&repo=First-try" > </a>
 
 <strong>📫 How to reach me </strong>
    
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <strong>⚡ Fun facts</strong>
    
    - I speak fluent Chinese :100: Shanghai hua :zero:
-   - I love LOL and RunningMan :love:
+   - I love LOL and RunningMan :father:
    - Favorite emoji: :dog: (the *dog*)
    
 <hr>
